@@ -1,0 +1,10 @@
+D:\Csharp\bai2Tuan2\bai2Tuan2\bin\Debug\bai2Tuan2.exe.config
+D:\Csharp\bai2Tuan2\bai2Tuan2\bin\Debug\bai2Tuan2.exe
+D:\Csharp\bai2Tuan2\bai2Tuan2\bin\Debug\bai2Tuan2.pdb
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.csproj.AssemblyReference.cache
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.Form1.resources
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.Properties.Resources.resources
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.csproj.GenerateResource.cache
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.csproj.CoreCompileInputs.cache
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.exe
+D:\Csharp\bai2Tuan2\bai2Tuan2\obj\Debug\bai2Tuan2.pdb
