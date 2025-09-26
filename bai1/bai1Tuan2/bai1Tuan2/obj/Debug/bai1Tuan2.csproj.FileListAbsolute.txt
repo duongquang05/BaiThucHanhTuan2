@@ -1,0 +1,10 @@
+D:\Csharp\bai1Tuan2\bai1Tuan2\bin\Debug\bai1Tuan2.exe.config
+D:\Csharp\bai1Tuan2\bai1Tuan2\bin\Debug\bai1Tuan2.exe
+D:\Csharp\bai1Tuan2\bai1Tuan2\bin\Debug\bai1Tuan2.pdb
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.csproj.AssemblyReference.cache
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.Properties.Resources.resources
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.csproj.GenerateResource.cache
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.csproj.CoreCompileInputs.cache
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.exe
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.pdb
+D:\Csharp\bai1Tuan2\bai1Tuan2\obj\Debug\bai1Tuan2.FormDangNhap.resources
